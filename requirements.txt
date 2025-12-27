@@ -1,0 +1,15 @@
+streamlit
+torch
+torchvision
+ultralytics
+opencv-python
+pillow
+numpy
+matplotlib
+scikit-learn
+datasets
+tqdm
+seaborn
+av
+streamlit_webrtc
+huggingface_hub
